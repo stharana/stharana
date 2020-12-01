@@ -1,16 +1,27 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**stharana/stharana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 🙏, I'm Sathyanga Tharana 
+## Front-end Developer | Mobile App Developer 👨‍💻
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/LinkedIn-stharana-blue)](https://www.linkedin.com/in/stharana/)
+[![](https://img.shields.io/badge/Gmail-stharanagmail.com-red)](mailto:stharana2013@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const stharana = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        fronEnd: ["angular","vuejs","nuxtjs"],
+        backEnd: ["nodejs", "express"],
+        mobileApp: ["flutter","ionic","angular"],
+        database: ["mongo","mySql"],
+        devOps: ["AWS", "Nginx"],
+        misc: ["Firebase", "Socket.IO","Agora.IO"]
+    },
+    architecture: ["event-driven", "Single page applications"],
+}
+```
+
