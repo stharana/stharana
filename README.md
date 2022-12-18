@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/stharana"><img src="https://github.com/stharana/stharana/blob/master/devcard.svg" align='right' width="250" alt="Sathyanga Tharana's Dev Card"/></a>
+<a href="https://app.daily.dev/stharana"><img src="https://raw.githubusercontent.com/stharana/stharana/7ce143d1241a8d724629d43ac143e16db074af06/devcard.svg" align='right' width="250" alt="Sathyanga Tharana's Dev Card"/></a>
 
 ## Hi there 👋 🙏, I'm Sathyanga Tharana 
 ## Front-end Developer | Mobile App Developer 👨‍💻
